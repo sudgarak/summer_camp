@@ -1,0 +1,6 @@
+*.ipynb
+*.toml
+*.png
+*.pyc
+*.csv
+*.json
